@@ -3,7 +3,7 @@ This folder contains projects Computer Vision Nanodegree of Udacity.
 # Udacity CV Nanodegree Project 1
 [//]: # (Image References)
 
-[image1]: ./images/key_pts_example.png "Facial Keypoint Detection"
+[image1]: .Project1/home/images/key_pts_example.png "Facial Keypoint Detection"
 
 # Facial Keypoint Detection
 
