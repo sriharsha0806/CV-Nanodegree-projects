@@ -1,6 +1,6 @@
 # CV-Nanodegree-projects
 This folder contains projects Computer Vision Nanodegree of Udacity. 
-# Udacity Computer Vision Nanodegree Project 1
+# Udacity ComputerVision Nanodegree Project 1
 [//]: # (Image References)
 
 [image1]: ./images/key_pts_example.png "Facial Keypoint Detection"
@@ -180,7 +180,7 @@ LICENSE: This project is licensed under the terms of the MIT license.
 
 
 
-# Udacity Computer Vision Nanodegree Project 2
+# Udacity ComputerVision Nanodegree Project 2
 # Install pytorch 0.4.0
 * Cuda : >8.0
 * CuDNN : >6.0
@@ -215,7 +215,7 @@ cd ..
 
 4. The project is structured as a series of Jupyter notebooks that are designed to be completed in sequential order (`0_Dataset.ipynb, 1_Preliminaries.ipynb, 2_Training.ipynb, 3_Inference.ipynb`).
 
-# Udacity Computer Vision Nanodegree Project 3
+# Udacity ComputerVision Nanodegree Project 3
 # Landmark Detection & Robot Tracking (SLAM)
 
 ## Project Overview
