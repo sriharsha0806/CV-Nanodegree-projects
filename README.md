@@ -225,7 +225,7 @@ In this project, you'll implement SLAM (Simultaneous Localization and Mapping) f
 *Below is an example of a 2D robot world with landmarks (purple x's) and the robot (a red 'o') located and found using *only* sensor and motion data collected by that robot. This is just one example for a 50x50 grid world; in your work you will likely generate a variety of these maps.*
 
 <p align="center">
-  <img src="./images/robot_world.png" width=50% height=50% />
+  <img src="./Project3/robot_world.png" width=50% height=50% />
 </p>
 
 The project will be broken up into three Python notebooks; the first two are for exploration of provided code, and a review of SLAM architectures, **only Notebook 3 and the `robot_class.py` file will be graded**:
